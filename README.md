@@ -1,4 +1,10 @@
 ### Hi there 👋
+ My name is Kevin Riley and I'm a frontend developer based in Canada.
+  
+🌱 I’m currently improving my skills in React and other frontend libraries. 
+📫 How to reach me: discountratio@gmail.com 
+
+
 
 <!--
 **discountratio/discountratio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
