@@ -2,6 +2,8 @@
  My name is Kevin Riley and I'm a frontend developer based in Canada.
   
 🌱 I’m currently improving my skills in React and other frontend libraries. 
+
+
 📫 How to reach me: discountratio@gmail.com 
 
 
